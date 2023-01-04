@@ -1,2 +1,2 @@
 # Practice-GitHub
-For Practicing or Learning GitHub
+For Learning GitHub
